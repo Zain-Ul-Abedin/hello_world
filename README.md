@@ -1,2 +1,2 @@
 # hello_world
-A test project
+This is my first project on GitHub for the purpose of of learning how to work and collaborate with prople in GitHub.
